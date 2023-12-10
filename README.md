@@ -1,4 +1,4 @@
-![logo](https://github.com/mehul-321/mehul-321/blob/main/Mehul%20vyas.png)
+![logo](https://github.com/mehul-321/mehul-321/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mehul Vyas</h1>
 <h3 align="center">🌐 Backend Developer | Turning caffeine into code | Solving complex problems, one line at a time | API wizard</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
